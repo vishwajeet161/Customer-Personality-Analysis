@@ -1,0 +1,12 @@
+[2023-10-25 01:37:33,163] werkzeug - WARNING -  * Debugger is active!
+[2023-10-25 01:37:33,163] werkzeug - INFO -  * Debugger PIN: 122-386-129
+[2023-10-25 01:38:06,918] werkzeug - INFO - 127.0.0.1 - - [25/Oct/2023 01:38:06] "GET / HTTP/1.1" 200 -
+[2023-10-25 01:38:07,286] werkzeug - INFO - 127.0.0.1 - - [25/Oct/2023 01:38:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2023-10-25 01:38:25,856] root - INFO - Model Prediction Config: ModelPredictionConfig(trained_model_path='artifacts/trained_model/model.pkl')
+[2023-10-25 01:38:25,892] werkzeug - INFO - 127.0.0.1 - - [25/Oct/2023 01:38:25] "POST /predict HTTP/1.1" 200 -
+[2023-10-25 01:38:35,208] root - INFO - Model Prediction Config: ModelPredictionConfig(trained_model_path='artifacts/trained_model/model.pkl')
+[2023-10-25 01:38:35,211] werkzeug - INFO - 127.0.0.1 - - [25/Oct/2023 01:38:35] "POST /predict HTTP/1.1" 200 -
+[2023-10-25 01:38:48,779] root - INFO - Model Prediction Config: ModelPredictionConfig(trained_model_path='artifacts/trained_model/model.pkl')
+[2023-10-25 01:38:48,781] werkzeug - INFO - 127.0.0.1 - - [25/Oct/2023 01:38:48] "POST /predict HTTP/1.1" 200 -
+[2023-10-25 01:39:03,091] root - INFO - Model Prediction Config: ModelPredictionConfig(trained_model_path='artifacts/trained_model/model.pkl')
+[2023-10-25 01:39:03,095] werkzeug - INFO - 127.0.0.1 - - [25/Oct/2023 01:39:03] "POST /predict HTTP/1.1" 200 -

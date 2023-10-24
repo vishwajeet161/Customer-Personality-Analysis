@@ -1,0 +1,6 @@
+[2023-10-25 01:26:03,353] matplotlib.font_manager - INFO - Failed to extract font properties from /usr/share/fonts/truetype/noto/NotoColorEmoji.ttf: In FT2Font: Can not load face (unknown file format; error code 0x2)
+[2023-10-25 01:26:03,776] matplotlib.font_manager - INFO - generated new fontManager
+[2023-10-25 01:26:04,408] werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+[2023-10-25 01:26:04,409] werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[2023-10-25 01:26:04,409] werkzeug - INFO -  * Restarting with stat
